@@ -48,3 +48,6 @@
   - [[nl:obs:48|Jesus is the Promised Messiah]]
   - [[nl:obs:49|God's New Covenant]]
   - [[nl:obs:50|Jesus Returns]]
+  * [[nl:obs:front-matter|Front Matter]]
+  * [[nl:obs:back-matter|Back Matter]]
+  * [[nl:obs:app_words|Mobile App Words]]
