@@ -11,7 +11,7 @@
 
 **[[:nl:obs|Open Bible Stories]]**
 
-{{page>en:obs:stories}}
+{{page>nl:obs:stories}}
 
 ~~NOCACHE~~ **[[:nl:uwadmin:en:obs:status|Latest OBS Status]]**
 
