@@ -1,33 +1,19 @@
 
+
+
 ----
 
-**Door43**
+**Help**
 
-  * [[nl:home|Door43 (nl)]]
+  * [[:nl:obs:help|Open Bible Stories Help]]
+  * [[:nl:ta:intro:handbook|translationAcademy Handbook]]
+  * [[nl:obs:notes]]
 
-**Resources**
+**[[:nl:obs|Open Bible Stories]]**
 
-  * [[nl:obs|Open Bible Stories (nl)]]
+{{page>en:obs:stories}}
 
+~~NOCACHE~~ **[[:nl:uwadmin:en:obs:status|Latest OBS Status]]**
 
-**Downloads**
+{{page>nl:uwadmin:en:obs:status}}
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-nl|d43-nl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nl/archive/master.zip|d43-nl.zip]]
-
-**Recent Changes**
-{{changes>ns = nl}}
-
-**Latest Status**
-{{page>en:uwadmin:nl:obs:status}}
-
-
-**Language Information**
-
-[[http://www.ethnologue.com/language/nl|Ethnologue data]]
-
-**Resources**
-
-  * [[nl:obs|Open Bible Stories (nl)]]
-
-**Latest OBS Status**
-{{page>en:uwadmin:nl:obs:status}}
