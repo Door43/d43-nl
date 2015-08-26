@@ -3,11 +3,45 @@
 
 **Door43**
 
-  * [[nl:home|Door43 (nl)]]
+  * [[nl:home|Door43 (Vlaams Nederlands)]]
+
+
+**Help**
+
+  * [[:en:ta:intro:handbook|translationAcademy Handbook]]
+  * [[:en:get-started|How to Get Started]]
+  * [[:en:obs:help|Open Bible Stories Help]]
+
+
 
 **Resources**
 
-  * [[nl:obs|Open Bible Stories (nl)]]
+  *  [[:nl:obs|Open Bible Stories]]
+      * [[:nl:obs:notes|translationNotes]]
+      * [[:nl:obs:notes:questions:home|translationQuestions]]
+      * [[:nl:obe:kt:home|translationWords]]
+  *  [[:nl:bible:intro|Bible]]
+      * [[:nl:ulb:ep:home|Unlocked Literal Bible]]
+      * [[:nl:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:nl:bible:notes:home|translationNotes]]
+      * [[nl:bible:questions:comprehension:home|translationQuestions]]
+      * [[:nl:obe:home|translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  * [[:en:ta|translationAcademy]]
+
+
+**About Door43**
+
+  * [[:en:statement-of-faith|Statement of Faith]]
+  * [[:en:translation-guidelines|Translation Guidelines]]
+  * [[:en:legal:license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:en:dev|Development Projects]]
 
 
 **Downloads**
@@ -17,13 +51,6 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Recent Changes**
 {{changes>ns = nl}}
 
-**Latest Status**
-{{page>en:uwadmin:nl:obs:status}}
-
-
-**Language Information**
-
-[[http://www.ethnologue.com/language/nl|Ethnologue data]]
 
 **Resources**
 
@@ -31,3 +58,8 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 **Latest OBS Status**
 {{page>en:uwadmin:nl:obs:status}}
+
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nl|Ethnologue data]]
