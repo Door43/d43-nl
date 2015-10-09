@@ -5,14 +5,11 @@
 
   * [[nl:home|Door43 (Vlaams Nederlands)]]
 
-
 **Help**
 
   * [[:en:ta:intro:handbook|translationAcademy Handbook]]
   * [[:en:get-started|How to Get Started]]
   * [[:en:obs:help|Open Bible Stories Help]]
-
-
 
 **Resources**
 
@@ -32,7 +29,6 @@
       * [[:en:library:t4t:home|Translation for Translators]]
   * [[:en:ta|translationAcademy]]
 
-
 **About Door43**
 
   * [[:en:statement-of-faith|Statement of Faith]]
@@ -43,7 +39,6 @@
 
   * [[:en:dev|Development Projects]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-nl|d43-nl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nl/archive/master.zip|d43-nl.zip]]
@@ -51,14 +46,9 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Recent Changes**
 {{changes>ns = nl}}
 
-
 **Resources**
 
   * [[nl:obs|Open Bible Stories (nl)]]
-
-**Latest OBS Status**
-{{page>en:uwadmin:nl:obs:status}}
-
 
 **Language Information**
 
