@@ -11,7 +11,4 @@
 
 {{page>nl:obs:stories}}
 
-~~NOCACHE~~ **[[:nl:uwadmin:en:obs:status|Latest OBS Status]]**
-
-{{page>nl:uwadmin:en:obs:status}}
-
+~~NOCACHE~~
